@@ -1,0 +1,6 @@
+Brainstorm
+
+Abra o index.html no navegador (internet so e necessaria para as fontes do Google; sem ela usa fontes do sistema).
+As ideias ficam salvas no navegador (localStorage). Use Menu > Exportar/Importar projeto para backup.
+
+Atalhos: N nova ideia, C conectar, F modo foco, V selecionar em area, Ctrl+Z / Ctrl+Shift+Z desfazer/refazer, Ctrl+F buscar, Delete excluir, Espaco+arrastar mover.
